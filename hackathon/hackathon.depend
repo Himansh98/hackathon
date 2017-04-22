@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1492862887 source:c:\codeblock_projects\hackathon\main.c
+	<windows.h>
+	<stdio.h>
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<iostream>
+	<string>
+	<ctime>
+	<stdafx.h>
+	<sapi.h>
+
